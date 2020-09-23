@@ -1,0 +1,13 @@
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\bin\Debug\netstandard2.0\AnimatedGradient.deps.json
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\bin\Debug\netstandard2.0\AnimatedGradient.dll
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\bin\Debug\netstandard2.0\ref\AnimatedGradient.dll
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\bin\Debug\netstandard2.0\AnimatedGradient.pdb
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\AnimatedGradient.AssemblyInfoInputs.cache
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\AnimatedGradient.AssemblyInfo.cs
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\AnimatedGradient.csproj.CoreCompileInputs.cache
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\AnimatedGradient.dll
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\ref\AnimatedGradient.dll
+C:\Users\slush\source\repos\AnimatedGradient\AnimatedGradient\AnimatedGradient\obj\Debug\netstandard2.0\AnimatedGradient.pdb

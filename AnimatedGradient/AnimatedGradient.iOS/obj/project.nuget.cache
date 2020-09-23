@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sv1fKUGN+teHxN1K8JCUFP1fhFvUeB0A0wH2YUDhuG1KZn3G8oz3Y4thIYnYRZO2l9NYohlvZLf08e44Xgspuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slush\\source\\repos\\AnimatedGradient\\AnimatedGradient\\AnimatedGradient.iOS\\AnimatedGradient.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\slush\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
